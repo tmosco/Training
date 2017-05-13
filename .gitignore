@@ -1,1 +1,5 @@
 venv/re
+..vscode/
+*pyc
+*__pycache__
+startup.sh
